@@ -1,2 +1,2 @@
-# IncapaxApus.github.io
+# incapaxapus.github.io
 Website Repository.
